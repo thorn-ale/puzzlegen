@@ -1,0 +1,3 @@
+# Jigsaw puzzle pieces Generator
+
+This script generates a svg file ...
